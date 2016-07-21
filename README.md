@@ -1,0 +1,2 @@
+# buildingGameWithCocosCreator
+基于Cocos Creator的游戏开发模式、新手入门
